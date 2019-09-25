@@ -1,0 +1,16 @@
+{
+  "name": "present-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./presentation/app"
+  },
+  "repository": "github:yevhene/present-learning.git",
+  "author": "Yevhen Shemet",
+  "license": "WTFPL",
+  "dependencies": {
+    "barecss": "^1.1.1",
+    "presentation": "file:presentation"
+  }
+}
